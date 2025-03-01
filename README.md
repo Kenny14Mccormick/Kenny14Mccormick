@@ -20,7 +20,6 @@
 ## Достижения
 - Грамота за участие в олимпиаде по информатике, 2024.  
   Подробности и сканы в репозитории: [Certificates](https://github.com/Kenny14Mccormick/Certificates).  
-  <img src="https://github.com/Kenny14Mccormick/Kenny14Mccormick/raw/main/gramota.png" width="200">
 
 ## Контакты
 - **Email**: [khortov05@mail.ru](mailto:khortov05@mail.ru)  
