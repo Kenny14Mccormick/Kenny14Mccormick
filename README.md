@@ -17,7 +17,7 @@
 
 ## Достижения
 - Грамота за участие в олимпиаде по программированию 2024.
-  <img src="https://github.com/user-attachments/assets/a2a441ae-5445-4781-8ebd-8f4cef1e1fd2)" width="200">
+  <img src="https://github.com/Kenny14Mccormick/Certificates/blob/main/грамота.png" width="200">
   
 ## Контакты
 - **Email**: [khortov05@mail.ru]
