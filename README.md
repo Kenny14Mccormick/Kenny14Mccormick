@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! Я CSharpStudent
+Студент 4 курса "Информационные системы и программирование". Разрабатываю приложения на C#, WPF и SQL.
 
-<!--
-**Kenny14Mccormick/Kenny14Mccormick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Мои проекты
+- **[PharmaceuticalWarehouse](https://github.com/Kenny14Mccormick/PharmaceuticalWarehouse)**
+-  Информационная система для аптечного склада с WPF и SQL.
+- Другие проекты скоро добавлю!
 
-Here are some ideas to get you started:
+## Навыки
+- C#, .NET, WPF  
+- SQL Server, LINQ  
+- Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+Email: example@email.com  
